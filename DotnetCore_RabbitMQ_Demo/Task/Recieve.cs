@@ -8,7 +8,7 @@ namespace DotnetCore_RabbitMQ_Demo.Task
 {
     public class Recieve : IWork
     {
-        private static string _queueName = "SenderMail";
+        private static string _queueName = "AhmetTuranAlp";
         private static RabbitMQRecieve _reciver;
         public void Work()
         {

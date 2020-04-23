@@ -10,7 +10,7 @@ namespace DotnetCore_RabbitMQ_Demo.Task
 {
     public class Sender : IWork
     {
-        private static string _queueName = "SenderMail";
+        private static string _queueName = "AhmetTuranAlp";
         private static RabbitMQSender _sender;
 
         private Timer timer1 = new Timer();
@@ -32,7 +32,7 @@ namespace DotnetCore_RabbitMQ_Demo.Task
                     string dateNow = DateTime.Now.Day.ToString() + "." + DateTime.Now.Month.ToString() + "." + DateTime.Now.Year.ToString();
                     if (x.Birthdate == dateNow)
                     {
-                        _sender = new RabbitMQSender(_queueName, x.Id);
+                        _sender = new RabbitMQSender(_queueName, x);
                     }
                 });
             }

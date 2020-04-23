@@ -12,3 +12,17 @@ C:\Users\ahmet\source\repos\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bi
 C:\Users\ahmet\source\repos\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\ahmet\source\repos\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\obj\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.dll
 C:\Users\ahmet\source\repos\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\obj\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.pdb
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bin\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.exe
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bin\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.deps.json
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bin\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.runtimeconfig.json
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bin\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.runtimeconfig.dev.json
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bin\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.dll
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bin\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.pdb
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\obj\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.csprojAssemblyReference.cache
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\obj\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.AssemblyInfoInputs.cache
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\obj\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.AssemblyInfo.cs
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\obj\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.csproj.CopyComplete
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\obj\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.dll
+D:\Yazılım\GitHup-Projeler\DotnetCore_RabbitMQ_Demo\DotnetCore_RabbitMQ_Demo\obj\Debug\netcoreapp3.1\DotnetCore_RabbitMQ_Demo.pdb
