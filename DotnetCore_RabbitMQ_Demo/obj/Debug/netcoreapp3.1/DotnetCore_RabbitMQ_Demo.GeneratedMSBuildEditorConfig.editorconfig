@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DotnetCore_RabbitMQ_Demo
+build_property.ProjectDir = D:\GithupProjects\RabbitMQ.NetCore\DotnetCore_RabbitMQ_Demo\

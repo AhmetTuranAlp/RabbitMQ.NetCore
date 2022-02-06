@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DGgh2izP1+LmeIizZU0rucRcGynimUQ9H6ntd2w/Y2MlBr3oIaT3HJzrsy3UZs9/0zRdgWwqOLjB9x8YgT9TvQ==",
+  "success": true,
+  "projectFilePath": "D:\\GithupProjects\\RabbitMQ.NetCore\\DotnetCore_RabbitMQ_Demo\\DotnetCore_RabbitMQ_Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
